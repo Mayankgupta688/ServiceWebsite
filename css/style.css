@@ -328,6 +328,24 @@ ul,li{
 	-o-border-radius:3px;
 	-moz-border-radius:3px;
 }
+/*css for button on 1st slide*/
+.btn-theme-three-insta{
+	position:relative;
+	padding:12px 25px;
+	line-height:34px;
+	text-transform:uppercase;
+	background:#2b4261;
+	color:#ffffff !important;
+	font-size:14px;
+	border:1px solid #aa4fff !important;
+	font-family: 'Montserrat', sans-serif;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-ms-border-radius:10px;
+	-o-border-radius:10px;
+	-moz-border-radius:10px;
+}
+
 
 .btn-theme-three:hover{
 	background:#ffffff;
@@ -374,6 +392,7 @@ ul,li{
 	-o-border-radius:3px;
 	-moz-border-radius:3px;
 }
+
 
 .btn-theme-five:hover{
 	background:#ffffff;
@@ -1535,9 +1554,10 @@ ul,li{
 	border-color:#43d6d1 !important;
 	background:#43d6d1 !important;
 }
-
+/*remove background color from 
+first slide*/
 .bg-theme{
-	background-color:#11c3f0;
+	background-color:;
 }
 
 .theme-purple .bg-theme{
@@ -2191,6 +2211,7 @@ ul,li{
 .gallery-section.full-width.three-column .item-box{
 	width:33.333%;
 	display:none;
+	padding:1%;
 }
 
 .gallery-section.full-width.four-column .item-box{
@@ -5124,12 +5145,13 @@ ul,li{
 	position:relative;
 	padding:0px 0px;
 	color:#1b1b1b;
-	background-color:#e5e5e5;
+	background-color:white;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 	background-size:cover;
 	background-position:center center;
 	overflow:hidden;
+	margin-bottom: 50px;
 }
 
 .fact-counter.style-two{
@@ -5167,7 +5189,8 @@ ul,li{
 	position:relative;
 	padding:80px 15px 70px;
 	text-align:center;
-	z-index:5;	
+	z-index:5;
+	background-color: #ADA8A8;
 }
 
 .fact-counter.style-two .column{
@@ -5184,7 +5207,7 @@ ul,li{
 
 .fact-counter .column:nth-child(1),
 .fact-counter .column:nth-child(3){
-	background:#d9d0e0;
+	background:#6B686D;
 }
 
 .fact-counter .count-outer{
@@ -7792,7 +7815,6 @@ ul,li{
 	margin-bottom:60px;
 	text-align:center;
 	border:1px solid #d0d0d0;
-	border-right:none;
 	transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
@@ -7858,7 +7880,9 @@ ul,li{
 .pricing-section .column-style-one.style-two .col-title{
 	background:#fd682e;	
 }
-
+.pricing-section .column-style-one.style-three .col-title{
+	background:#ffc925;	
+}
 .pricing-section .column-style-one.style-two.active .col-title{
 	background:#11c3f0;	
 }
@@ -7906,7 +7930,9 @@ ul,li{
 .pricing-section .column-style-one.style-two .col-price h3{
 	color:#fd682e;	
 }
-
+.pricing-section .column-style-one.style-three .col-price h3{
+	color:#ffc925;	
+}
 .pricing-section .column-style-one .col-price sup{
 	position:relative;
 	top:-30px;
@@ -7929,6 +7955,10 @@ ul,li{
 
 .pricing-section .column-style-one.style-two .col-price sup:nth-child(2){
 	color:#fd682e;
+}
+
+.pricing-section .column-style-one.style-three .col-price sup:nth-child(2){
+	color:#ffc925;
 }
 
 .pricing-section .column-style-one.active.style-two .col-price h3{
