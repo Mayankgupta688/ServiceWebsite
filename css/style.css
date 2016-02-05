@@ -5131,6 +5131,7 @@ ul,li{
 	background-size:cover;
 	background-position:center center;
 	overflow:hidden;
+	margin-bottom: 50px;
 }
 
 .fact-counter.style-two{
@@ -5168,7 +5169,8 @@ ul,li{
 	position:relative;
 	padding:80px 15px 70px;
 	text-align:center;
-	z-index:5;	
+	z-index:5;
+	background-color: #ADA8A8;
 }
 
 .fact-counter.style-two .column{
@@ -5185,7 +5187,7 @@ ul,li{
 
 .fact-counter .column:nth-child(1),
 .fact-counter .column:nth-child(3){
-	background:#d9d0e0;
+	background:#6B686D;
 }
 
 .fact-counter .count-outer{
