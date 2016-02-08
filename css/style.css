@@ -3975,8 +3975,18 @@ first slide*/
 }
 
 .footer-bottom{
+	position:relative;
+	background:#415c7f;
+	padding:20px 0px;
+	color:#ffffff;
+	font-size:15px;
+	text-align:center;
+	font-family:'Montserrat',sans-serif;
+}
+
+.contact-info{
 	position:fixed;
-	bottom: 0px;
+	bottom: 0;
 	width: 100%;
 	background:#415c7f;
 	padding:20px 0px;
@@ -3985,6 +3995,23 @@ first slide*/
 	text-align:center;
 	font-family:'Montserrat',sans-serif;
 }
+
+.plan-info{
+	position:fixed;
+	right: 0;
+	top: 200px;
+	height: 80px;
+	width: 280px;
+	background: #F34949;
+	padding:13px 0px;
+	color:#ffffff;
+	font-size:15px;
+	text-align:center;
+	font-family:'Montserrat',sans-serif;
+	border-radius: 35px 0px 0px 35px;
+}
+
+
 
 .theme-orange .footer-bottom{
 	background:#ffffff;
