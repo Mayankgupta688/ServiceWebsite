@@ -2198,6 +2198,11 @@ first slide*/
 	position:relative;
 }
 
+.images-container .row {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 .gallery-section .item-box{
 	position:relative;
 	float:left;
@@ -3979,6 +3984,35 @@ first slide*/
 	font-family:'Montserrat',sans-serif;
 }
 
+.contact-info{
+	position:fixed;
+	bottom: 0;
+	width: 100%;
+	background:#415c7f;
+	padding:20px 0px;
+	color:#ffffff;
+	font-size:15px;
+	text-align:center;
+	font-family:'Montserrat',sans-serif;
+}
+
+.plan-info{
+	position:fixed;
+	right: 0;
+	top: 200px;
+	height: 80px;
+	width: 280px;
+	background: #F34949;
+	padding:13px 0px;
+	color:#ffffff;
+	font-size:15px;
+	text-align:center;
+	font-family:'Montserrat',sans-serif;
+	border-radius: 35px 0px 0px 35px;
+}
+
+
+
 .theme-orange .footer-bottom{
 	background:#ffffff;
 	color:#3a3a3a;
@@ -5205,8 +5239,9 @@ first slide*/
 }
 
 .fact-counter .column:nth-child(1),
+.fact-counter .column:nth-child(5),
 .fact-counter .column:nth-child(3){
-	background:#6B686D;
+	background:#D2CCCC;
 }
 
 .fact-counter .count-outer{
