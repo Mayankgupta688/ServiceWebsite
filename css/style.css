@@ -3975,7 +3975,9 @@ first slide*/
 }
 
 .footer-bottom{
-	position:relative;
+	position:fixed;
+	bottom: 0px;
+	width: 100%;
 	background:#415c7f;
 	padding:20px 0px;
 	color:#ffffff;
