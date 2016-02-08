@@ -3999,10 +3999,10 @@ first slide*/
 .plan-info{
 	position:fixed;
 	right: 0;
-	top: 200px;
+	bottom: 13%;
 	height: 80px;
 	width: 280px;
-	background: #F34949;
+	background: #11c3f0;
 	padding:13px 0px;
 	color:#ffffff;
 	font-size:15px;
