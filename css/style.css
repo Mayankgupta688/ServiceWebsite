@@ -3994,12 +3994,13 @@ first slide*/
 	font-size:15px;
 	text-align:center;
 	font-family:'Montserrat',sans-serif;
+	z-index: 100;
 }
 
 .plan-info{
 	position:fixed;
 	right: 0;
-	bottom: 13%;
+	top: 30%;
 	height: 80px;
 	width: 280px;
 	background: #11c3f0;
