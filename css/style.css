@@ -1102,7 +1102,7 @@ ul,li{
 	position:relative;
 	display:block;
 	padding:40px 0px 40px 0px;
-	font-size:14px;
+	font-size:16px;
 	color:#ffffff;
 	line-height:20px;
 	text-transform:uppercase;
@@ -5185,7 +5185,7 @@ first slide*/
 	background-size:cover;
 	background-position:center center;
 	overflow:hidden;
-	margin-bottom: 50px;
+	margin-top: 50px;
 }
 
 .fact-counter.style-two{
@@ -8138,4 +8138,3 @@ first slide*/
 .btns-row .theme-btn{
 	margin:0px 5px 20px;	
 }
-
