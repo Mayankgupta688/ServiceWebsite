@@ -8138,3 +8138,11 @@ first slide*/
 .btns-row .theme-btn{
 	margin:0px 5px 20px;	
 }
+
+#disclaimer {
+	font-size: 12px;
+}
+
+#userMessage {
+	font-size: 10px;
+}
