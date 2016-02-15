@@ -1260,7 +1260,11 @@ ul,li{
 	opacity:1;
 	top:100%;	
 }
+.menu-font{
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
 
+}
 .main-menu .navigation li > ul > li.dropdown:hover > ul{
 	visibility:visible;
 	opacity:1;
