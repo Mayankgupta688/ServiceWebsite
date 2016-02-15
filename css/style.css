@@ -643,6 +643,9 @@ ul,li{
 	font-weight:600;	
 }
 
+.midbold-font{
+  font-weight:300;	
+}
 .bold-font{
 	font-weight:700;	
 }
@@ -1492,21 +1495,24 @@ ul,li{
 }
 
 .main-slider h1{
-	font-size:48px;
 	padding:5px 20px;
 	letter-spacing:1px;
+  font-size:40px;
+  font-family: 'Raleway', sans-serif;
 }
 
 .main-slider h2{
-	font-size:28px;
 	padding:5px 20px;
 	letter-spacing:4px;
+  font-size:20px;
+  font-family: 'Raleway', sans-serif;
 }
 
 .main-slider h3{
 	font-size:20px;
 	padding:5px 40px;
 	letter-spacing:2px;
+  font-family: 'Raleway', sans-serif;
 }
 
 .main-slider .slide-text{
