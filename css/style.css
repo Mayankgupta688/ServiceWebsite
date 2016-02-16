@@ -1089,7 +1089,7 @@ ul,li{
 	position:relative;
 	float:right;
 	margin:0px;
-	font-weight:500;
+	font-weight:600;
 }
 
 .main-menu .navigation > li{
@@ -1428,7 +1428,7 @@ ul,li{
 	background-color: transparent;
 	padding: 0;
 	font-family: 'PT Sans Narrow', sans-serif;
-	font-size:14px;
+	font-size:13px;
 	letter-spacing:1px;
 }
 
@@ -1475,7 +1475,7 @@ ul,li{
 	color: #1CBAC8;
 	border: 1px solid #2CCCDA;
 	padding: 3px 10px;
-	font-size: 14px;
+	font-size: 13px;
 	border-radius: 7px;
 	position: absolute;
 	top: 6px;
@@ -1843,7 +1843,7 @@ first slide*/
 
 .sub-title-theme{
 	position:relative;
-	font-size:14px;
+	font-size:13px;
 	font-family:'Montserrat',sans-serif;
 	text-transform:uppercase;
 	letter-spacing:4px;
@@ -1906,7 +1906,7 @@ first slide*/
 
 .boxed-icon .icon-outer .box-title{
 	position:relative;
-	font-size:14px;
+	font-size:13px;
 	font-family:'Montserrat',sans-serif;
 	top:-20px;
 	opacity:0;
