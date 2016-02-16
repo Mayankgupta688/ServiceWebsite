@@ -2348,6 +2348,7 @@ img.tp-slider-alternative-image {
     width: 30px;
     height: 110px;
     background: transparent;
+    top: 250px;
     -webkit-transform-style: preserve-3d;
     -webkit-perspective: 1000;
     -moz-perspective: 1000
