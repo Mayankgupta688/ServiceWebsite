@@ -4011,7 +4011,7 @@ first slide*/
 .plan-info{
 	position:fixed;
 	right: 0;
-	top: 20%;
+	top: 150px;
 	height: 80px;
 	width: 230px;
 	background: #11c3f0;
@@ -5196,7 +5196,7 @@ first slide*/
 	background-size:cover;
 	background-position:center center;
 	overflow:hidden;
-	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .fact-counter.style-two{
