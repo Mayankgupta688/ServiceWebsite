@@ -2510,8 +2510,12 @@ first slide*/
 }
 
 .portfolio-item .overlay-box .tags{
-	color:#d971f2;
-	margin-bottom:25px;
+    color: #d971f2;
+    margin-bottom: 25px;
+    font-size: 20px;
+    margin-top: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .portfolio-item .overlay-box .tags a{
