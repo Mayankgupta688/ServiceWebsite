@@ -8167,23 +8167,27 @@ figure.image a img {
 	width: 276px !important;
 }
 
-.inner-box .testData{
+.gallery-section .inner-box .testData{
 	height: 215px;
 	margin: auto;
+	display: table-cell !important;
 	text-align: center;
 	padding-top: 35%;
 }
 
-.inner-box {
+.gallery-section .inner-box {
 	height: 215px;
 	margin: auto;
+	display: table !important;
+ background-color: #82A5AF;
+ color: black;
 }
 
-.inner-box .testDiv {
+.gallery-section .inner-box .testDiv {
 	height: 215px;
 	margin: auto;
 	vertical-align: middle;
 	display: table-cell;
-    background-color: #10B8E3;
-    color: black;
+ background-color: #10B8E3;
+ color: black;
 }
