@@ -1747,7 +1747,6 @@ first slide*/
 
 .icon-column .text{
 	position:relative;
-	font-size:16px;
 	line-height:2.2em;
 }
 
@@ -4017,7 +4016,7 @@ first slide*/
 	right: 0;
 	top: 150px;
 	height: 80px;
-	width: 230px;
+	width: 180px;
 	background: #11c3f0;
 	padding:13px 0px;
 	color:#ffffff;
@@ -8179,7 +8178,7 @@ figure.image a img {
 	height: 215px;
 	margin: auto;
 	display: table !important;
- background-color: #82A5AF;
+ 	background-color: #11C3F0;
  color: black;
 }
 
@@ -8188,6 +8187,6 @@ figure.image a img {
 	margin: auto;
 	vertical-align: middle;
 	display: table-cell;
- background-color: #10B8E3;
- color: black;
+	background-color: #10B8E3;
+	color: black;
 }
