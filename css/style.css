@@ -8206,3 +8206,8 @@ figure.image a img {
 .footer-upper .textStyle li a {
 	font-size: 13px !important;
 }
+
+#livechat-compact-container, #livechat-full {
+	bottom: 60px !important;
+	right: 0 !important;
+}
