@@ -4015,7 +4015,7 @@ first slide*/
 	position:fixed;
 	right: 0;
 	top: 150px;
-	height: 80px;
+	height: 60px;
 	width: 180px;
 	background: #11c3f0;
 	padding:13px 0px;
@@ -6417,7 +6417,7 @@ first slide*/
 
 .portfolio-detail-section{
 	position:relative;
-	padding:50px 0px 10px;	
+	padding:40px 0px 0px;	
 }
 
 .portfolio-detail-section .default-title{
@@ -8189,4 +8189,20 @@ figure.image a img {
 	display: table-cell;
 	background-color: #10B8E3;
 	color: black;
+}
+
+.plan-info .auto-container div {
+	margin-top: 5px !important;
+}
+
+.footer-upper .textStyle li {
+	margin-bottom: 5px;
+}
+
+.footer-upper .textStyle.contact li {
+	margin-bottom: 13px !important;
+}
+
+.footer-upper .textStyle li a {
+	font-size: 13px !important;
 }
