@@ -4015,7 +4015,7 @@ first slide*/
 	position:fixed;
 	right: 0;
 	top: 150px;
-	height: 60px;
+	height: 80px;
 	width: 180px;
 	background: #11c3f0;
 	padding:13px 0px;
@@ -6417,7 +6417,7 @@ first slide*/
 
 .portfolio-detail-section{
 	position:relative;
-	padding:40px 0px 0px;	
+	padding:50px 0px 10px;	
 }
 
 .portfolio-detail-section .default-title{
@@ -8169,45 +8169,29 @@ figure.image a img {
 .gallery-section .inner-box .testData{
 	height: 215px;
 	margin: auto;
-	display: table-cell !important;
 	text-align: center;
-	padding-top: 35%;
+	padding-top: 95px;
 }
+
 
 .gallery-section .inner-box {
 	height: 215px;
 	margin: auto;
-	display: table !important;
  	background-color: #11C3F0;
- color: black;
+ 	color: black;
 }
 
-.gallery-section .inner-box .testDiv {
-	height: 215px;
-	margin: auto;
-	vertical-align: middle;
+.chutiya-bhenchod {
+	height: 100% !important;
+	width: 100%  !important;
+	display: table !important;
+}
+
+.chutiya-bhenchod b {
+	font-size: 18px;
 	display: table-cell;
-	background-color: #10B8E3;
-	color: black;
+	text-align: center;
+	padding-top: 90px;
 }
 
-.plan-info .auto-container div {
-	margin-top: 5px !important;
-}
 
-.footer-upper .textStyle li {
-	margin-bottom: 5px;
-}
-
-.footer-upper .textStyle.contact li {
-	margin-bottom: 13px !important;
-}
-
-.footer-upper .textStyle li a {
-	font-size: 13px !important;
-}
-
-#livechat-compact-container, #livechat-full {
-	bottom: 60px !important;
-	right: 0 !important;
-}
